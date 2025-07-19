@@ -1,6 +1,6 @@
 # EchoScriptAI - Let AI turn your voice or video into a stunning blog post—instantly and effortlessly!
 
-Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and Google Sign in, React, OpenAI - Whisper API, ShadCN UI library for components, React Markdown, NeonDb, UploadThing, Stripe for payments, Webhooks, TypeScript, TailwindCSS and more.
+Built with the Next.js 14 App Router, Clerk for Auth - with Github and Google Sign in, React, OpenAI - Whisper API, ShadCN UI library for components, React Markdown, NeonDb, UploadThing, Stripe for payments, Webhooks, TypeScript, TailwindCSS and more.
 
 ![Project Image](screenshot/Screenshot%202025-07-19%20182625.png)
 
