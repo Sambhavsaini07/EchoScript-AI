@@ -8,7 +8,7 @@ Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and
 
 - 🌐 Next.js 14 App Router & Server Actions
 - 🤖 OpenAI API for audio transcription and blog post generation
-- 🔐 Authentication with Clerk (Passkeys, Github, and Google Sign-in)
+- 🔐 Authentication with Clerk (Github, and Google Sign-in)
 - 📝 AI-powered blog post generation based on audio transcription
 - 💳 Stripe integration for payments and subscription management
 - 💾 NeonDb for database management
